@@ -1,4 +1,4 @@
-const API_KEY = 'YOUR_TMDB_API_KEY'; // Replace with your actual TMDB API key
+const API_KEY = 'e1f0ea6bd4624b907cd5abe3612a5321'; // Replace with your actual TMDB API key
 
 const movieGrid = document.getElementById('movie-grid');
 const seriesGrid = document.getElementById('series-grid');
